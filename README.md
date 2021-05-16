@@ -21,11 +21,21 @@ The weather in the island of Oahu is perfect for opening a surf and ice cream sh
 
 The location of your business is often critical in its success and because the goal is to have the surf and ice cream shop sustainable year round, it would be better to choose a location in the area known to surfers as the South Shore, rather than the North Shore. The North Shore has amazing waves during the cold months, but that would mean business would also be seasonal. It makes more sense to open a shop along the South Shore of Oahu.
 
-I have written two additional sets of queries. The first set shows us the temperatures of the months of June and December and the second set shows us the precipitation for the same months. The sets of queries differ from the queries done beforehand because, in these sets we  limited or filtered the data from specific weather station.The first weather station, 'USC00519281' or the Waihee Weather Station, produced the most amount of data, which was the preference of the initial investor. I have included another weather station, 'USC00519397'or the Waikiki Weather Station in the set of queries. I will explain why i did so after i have presented all my queries. Just for reference, I have also included the results for the "whole island" of Oahu at the beginning of each set of queries; these  results are the same as those of deliverables 1 and 2 for temperature.
+I have written two additional sets of queries; The first set shows us the temperatures of the months of June and December and the second set shows us the precipitation for the same months. The sets of queries differ from the queries done beforehand because, in these sets we  limited or filtered the data from specific weather station.The first weather station, 'USC00519281' or the Waihee Weather Station, produced the most amount of data, which was the preference of the initial investor. I have included another weather station, 'USC00519397'or the Waikiki Weather Station in the set of queries. I will explain why i did so after i have presented all my queries. Just for reference, I have also included the results for the "whole island" of Oahu at the beginning of each set of queries; these  results are the same as those of deliverables 1 and 2 for temperature.
 
-* Modified Query for Temperature, based on Weather Station
+* Query for Temperature, based on Weather Station
   Lines 12 and 20 limits the data for the months of June(6) and December (12) only.
   Lines 13 and 21 limits the data for the specific weather station 'USC00519281' for Waihee and 'USC00519397' for Waikiki
 
 ![June and Dec_NewTemps](Resources/Query_Temps.png)
+
+* Queries for Precipitation, based on Weather Station
+  Lines 2 to 7 shows us the amount of precipiation for the island of Oahu
+  Lines 5, 12 and 2s limits the data for the months of June(6) and December (12) only.
+  Lines 13 and 23 limits the data for the specific weather station 'USC00519281' for Waihee and 'USC00519397' for Waikiki.
+  Histograms for both June and December are in the resources folder under teh file names June_Prcp and Dec_Prcp
+  
+ ![June Prcp](Resources/Query_June_Prcp.png)
+ ![Dec Prcp](Resources/Query_Dec_Prcp.png)
+  
  
