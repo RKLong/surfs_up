@@ -23,6 +23,7 @@ The location of your business is often critical in its success and because the g
 
 I have written two additional sets of queries. The first set shows us the temperatures of the months of June and December and the second set shows us the precipitation for the same months. The sets of queries differ from the queries done beforehand because, in these sets we  limited or filtered the data from specific weather station.The first weather station, 'USC00519281' or the Waihee Weather Station, produced the most amount of data, which was the preference of the initial investor. I have included another weather station, 'USC00519397'or the Waikiki Weather Station in the set of queries. I will explain why i did so after i have presented all my queries. Just for reference, I have also included the results for the "whole island" of Oahu at the beginning of each set of queries; these  results are the same as those of deliverables 1 and 2 for temperature.
 
+* Modified Query for Temperature, based on Weather Station
 
-![June and December_Temps](Resources/Temp_Queries.png)
+![June and Dec_NewTemps](Resources/Query_Temps.png)
  
