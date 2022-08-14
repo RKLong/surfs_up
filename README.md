@@ -1,5 +1,5 @@
 # surfs_up
-UCB Bootcamp - Advanced Data Storage and Retrieval
+Advanced Data Storage and Retrieval
 
 # Overview of the Analysis
 The purpose of the analysis is to supply information about the temperature data/trends for the months of June and December in the island of Oahu in Hawaii, to be able to determine if the surf and ice cream shop business is sustainable all year round.
